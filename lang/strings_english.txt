@@ -1,0 +1,20 @@
+<?php
+
+# Copyright 2010 (c) John Reese
+# Licensed under the MIT license
+
+$s_plugin_LDAPAutocomplete_ = "";
+$s_plugin_LDAPAutocomplete_LDAP = "LDAP";
+$s_plugin_LDAPAutocomplete_plugin_title = "LDAP Autocomplete";
+$s_plugin_LDAPAutocomplete_name = "LDAPAutocomplete";
+$s_plugin_LDAPAutocomplete_description = "Allow users to add client information to fill automaticaly";
+$s_plugin_LDAPAutocomplete_project_name = "LDAPAutocomplete";
+$s_plugin_LDAPAutocomplete_config = "Configuration";
+$s_plugin_LDAPAutocomplete_config_ldap_hostname = "Hostname:";
+$s_plugin_LDAPAutocomplete_config_ldapauto_base_dn = "BASE_DN:";
+$s_plugin_LDAPAutocomplete_config_ldapauto_ldap_dn = "LDAP_DN:";
+$s_plugin_LDAPAutocomplete_config_ldapauto_password = "Password:"; 
+$s_plugin_LDAPAutocomplete_config_ldapauto_attribute = "Format strings:";
+$s_plugin_LDAPAutocomplete_config_ldapauto_textlength = "Maximum text length for searching:";
+$s_plugin_LDAPAutocomplete_config_ldapauto_maxrow = "Maximum rows for dropdown list:";
+$s_plugin_LDAPAutocomplete_update_config = "Save";
